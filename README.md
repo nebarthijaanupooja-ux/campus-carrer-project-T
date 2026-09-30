@@ -26,10 +26,6 @@ A Smart Internship & Placement Management System designed to connect students wi
 - Mongoose
 - REST API
 
-## 👥 Project Team
-
-CampusCareer was developed as a team project.
-
 ### Student
 - Profile management
 - Career opportunities
