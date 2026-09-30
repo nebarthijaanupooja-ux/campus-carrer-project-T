@@ -1,0 +1,19 @@
+CAMPUSCAREER - FIXED PROJECT
+
+1. Open PowerShell in: backend
+2. Run: node server.js
+3. Open fronted.html in the browser.
+
+Main fixed flows:
+- Student registration/login via backend
+- MongoDB profile persistence
+- Backend opportunity publishing from Admin
+- Student Smart Career Match
+- Student application submission
+- Admin application list
+- Admin status flow: Applied -> Shortlisted -> Test / Interview -> Selected / Rejected
+- Student application tracking
+- Backend job deletion
+
+If node_modules is missing, run: npm install
+Do not share the .env file publicly because it contains your database configuration.
